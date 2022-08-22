@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+#palabras{
+    height: 50px;
+    width: 530px;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    position: absolute;
+    left: 30%;
+    top: 40%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 0;
+    font-size: large;
+    font-family:'Rubik Iso', sans-serif ;
+}
+
+#caja_boton{
+    position: absolute;
+    left: 44%;
+    top: 50%;
+}
+
+#boton{
+    font-family: "Silkscreen" ,sans-serif;
+    background-color: transparent;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+}
